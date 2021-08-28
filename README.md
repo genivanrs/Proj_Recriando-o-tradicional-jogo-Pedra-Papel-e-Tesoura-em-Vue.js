@@ -1,6 +1,29 @@
-# Proj_Recriando-o-tradicional-jogo-Pedra-Papel-e-Tesoura-em-Vue.js
-Recriando o tradicional jogo Pedra, Papel e Tesoura em Vue.js
+# rock-paper-scissors
 
-DESCRIÇÃO
+## Project setup
+```
+yarn install
+```
 
-Nesse projeto iremos construir um jogo de Pedra, Papel e Tesoura, onde introduzirei além de conceitos chaves de Vue.js, boas práticas de desenvolvimento e duas importantes bibliotecas: Vue Router para tratar o roteamento de páginas e Vuex para gerenciamento do estado da aplicação, também armazenaremos dados no localStorage do browser e toda aplicação será responsiva utilizando SASS, Flexbox e CSS Grid.
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
